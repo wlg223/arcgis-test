@@ -5,7 +5,7 @@ import DictionaryRenderer from "@arcgis/core/renderers/DictionaryRenderer";
 import MapView from "@arcgis/core/views/MapView";
 import WebMap from "@arcgis/core/WebMap";
 import portalItems, { portalUrl } from "../../constants/portalItems";
-import styles from "../../styles/Esrimap.module.scss";
+import styles from "../../styles/EsriMap.module.scss";
 import { API_KEY } from "../../secrets";
 import esriConfig from "@arcgis/core/config.js";
 
